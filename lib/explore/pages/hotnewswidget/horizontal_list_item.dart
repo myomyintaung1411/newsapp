@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:news/model/page_two_model.dart';
+import 'package:news/models/hot_new_model.dart';
 
 import 'detail_pagetwo.dart';
 
